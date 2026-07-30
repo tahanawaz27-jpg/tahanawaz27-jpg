@@ -50,3 +50,21 @@ Backend Developer | AI Enthusiast | Building scalable APIs and intelligent appli
 
 - 📧 **Email:** tahanawaz27@gmail.com
 - 💼 **LinkedIn:** www.linkedin.com/in/taha-nawaz-0832882a9
+
+---
+
+## Featured Projects
+
+🔹 **MyMovieList API** – RESTful movie management API built with FastAPI, SQLAlchemy, SQLite, and Pydantic.
+
+🔹 **Interns Playbook** – FastAPI learning repository covering backend architecture, routing, dependency injection, and REST API development.
+
+🔹 **FastAPI Project** *(Private)* – Production-focused backend development with FastAPI, SQLAlchemy, and API best practices.
+
+🔹 **TrustGuard AI Fraud Detection** – Machine learning system for financial fraud detection with explainable AI and a RAG-based policy assistant.
+
+🔹 **Movie Recommendation System** – Recommendation engine using clustering, dimensionality reduction, and predictive modeling on TMDB movie data.
+
+🔹 **Online Unused Medicine Donation System** – C# Windows Forms application for managing medicine donations, inventory, and user authentication.
+
+🔹 **E-Commerce Data Warehouse & Analytics** – PostgreSQL and Power BI project demonstrating ETL pipelines and business intelligence workflows.
