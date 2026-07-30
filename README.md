@@ -24,8 +24,8 @@ My current focus is on building production-ready REST APIs, working with relatio
 | **Languages** | Python, SQL, C++, C#, Assembly Language |
 | **Backend** | FastAPI, SQLAlchemy, Pydantic, REST APIs, CRUD Operations |
 | **Databases** | SQLite, MySQL, PostgreSQL |
-| **AI / ML** | PyTorch, Scikit-learn, XGBoost, LangChain, NLP, RAG, SHAP |
-| **Tools** | Git, GitHub, VS Code, Linux, Postman, Jupyter Notebook, Swagger |
+| **AI / ML** | PyTorch, Scikit-learn, XGBoost, LangChain, NLP, RAG |
+| **Tools** | Git, GitHub, VS Code, Linux, Jupyter Notebook, Swagger |
 
 ---
 
