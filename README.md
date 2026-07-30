@@ -1,56 +1,52 @@
-# Taha Nawaz
+# Hi 👋, I'm Taha Nawaz
 
-**BS Data Science & AI — FAST NUCES, Lahore**  
-*6th Semester | Full Stack AI Engineering Intern @ CloudPacer*
+### BS Data Science & AI @ FAST NUCES, Lahore
+#### Full Stack AI Engineering Intern @ CloudPacer
 
-Building backend applications, AI-powered solutions, and scalable software using Python, FastAPI, SQL, and modern development practices.
-
-[LinkedIn](YOUR_LINKEDIN) • [GitHub](https://github.com/tahanawaz27-jpg)
+Backend Developer | AI Enthusiast | Building scalable APIs and intelligent applications.
 
 ---
 
-## Profile Summary
+## About Me
 
-I'm a Data Science & AI undergraduate at FAST NUCES with a strong interest in backend engineering and artificial intelligence.
-
-My current focus is on building production-ready REST APIs, working with relational databases, and integrating AI into real-world applications. I enjoy writing clean, maintainable code and continuously expanding my backend development skills through projects and hands-on experience.
-
----
-
-## Core Skills
-
-| Domain | Technologies |
-|---------|--------------|
-| **Languages** | Python, SQL, C++, C#, Assembly Language |
-| **Backend** | FastAPI, SQLAlchemy, Pydantic, REST APIs, CRUD Operations |
-| **Databases** | SQLite, MySQL, PostgreSQL |
-| **AI / ML** | PyTorch, Scikit-learn, XGBoost, LangChain, NLP, RAG |
-| **Tools** | Git, GitHub, VS Code, Linux, Jupyter Notebook, Swagger |
+- 🎓 BS Data Science & AI student (6th Semester)
+- 💼 Full Stack AI Engineering Intern at **CloudPacer**
+- 🌱 Currently learning **FastAPI, SQLAlchemy, PostgreSQL, Backend Architecture & AI Integration**
+- 🚀 Passionate about building backend systems and AI-powered applications
+- 📍 Lahore, Pakistan
 
 ---
 
-## Currently Working On
+## Tech Stack
 
-- Backend Development
-- FastAPI & SQLAlchemy
-- PostgreSQL
-- AI Integration
-- System Design
-- Production-ready APIs
+### Languages
+`Python` • `SQL` • `C++` • `C#` • `Assembly`
+
+### Backend
+`FastAPI` • `SQLAlchemy` • `Pydantic` • `REST APIs` • `CRUD Operations`
+
+### Databases
+`SQLite` • `MySQL` • `PostgreSQL`
+
+### AI / ML
+`PyTorch` • `Scikit-learn` • `XGBoost` • `LangChain` • `NLP` • `RAG` • `SHAP`
+
+### Tools
+`Git` • `GitHub` • `VS Code` • `Linux` • `Postman` • `Jupyter Notebook` • `Swagger`
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahanawaz27-jpg&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahanawaz27-jpg&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahanawaz27-jpg&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahanawaz27-jpg&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahanawaz27-jpg&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=tahanawaz27-jpg&theme=github-dark&hide_border=true)
 
 ---
 
 ## Connect With Me
 
-- LinkedIn
-- Email
+- 📧 **Email:** tahanawaz27@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/taha-nawaz-0832882a9
