@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi 👋 I'm Taha Nawaz
 
 <!--
 **tahanawaz27-jpg/tahanawaz27-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
