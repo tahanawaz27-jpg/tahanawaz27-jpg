@@ -55,16 +55,20 @@ Backend Developer | AI Enthusiast | Building scalable APIs and intelligent appli
 
 ## Featured Projects
 
-🔹 **MyMovieList API** – RESTful movie management API built with FastAPI, SQLAlchemy, SQLite, and Pydantic.
+- 🚀 **[MyMovieList API](https://github.com/tahanawaz27-jpg/MyMovieList)**  
+  RESTful Movie Management API built with FastAPI and SQLAlchemy.
 
-🔹 **Interns Playbook** – FastAPI learning repository covering backend architecture, routing, dependency injection, and REST API development.
+- 📘 **[Interns Playbook](https://github.com/tahanawaz27-jpg/interns-playbook-taha)**  
+  Backend learning repository covering FastAPI and SQLAlchemy.
 
-🔹 **FastAPI Project** *(Private)* – Production-focused backend development with FastAPI, SQLAlchemy, and API best practices.
+- 🤖 **[TrustGuard AI Fraud Detection](https://github.com/tahanawaz27-jpg/trustguard-ai-fraud-detection)**  
+  AI-powered fraud detection system using Machine Learning and RAG.
 
-🔹 **TrustGuard AI Fraud Detection** – Machine learning system for financial fraud detection with explainable AI and a RAG-based policy assistant.
+- 🎬 **[Movie Recommendation System](https://github.com/tahanawaz27-jpg/MovieRecommendationSystem)**  
+  Movie recommendation engine using clustering and predictive modeling.
 
-🔹 **Movie Recommendation System** – Recommendation engine using clustering, dimensionality reduction, and predictive modeling on TMDB movie data.
+- 💊 **[Online Unused Medicine Donation System](https://github.com/tahanawaz27-jpg/Online-Unused-Medicine-Donation)**  
+  Windows Forms application for managing medicine donations.
 
-🔹 **Online Unused Medicine Donation System** – C# Windows Forms application for managing medicine donations, inventory, and user authentication.
-
-🔹 **E-Commerce Data Warehouse & Analytics** – PostgreSQL and Power BI project demonstrating ETL pipelines and business intelligence workflows.
+- 📊 **[E-Commerce Data Warehouse & Analytics](https://github.com/tahanawaz27-jpg/E-Commerce-Data-Warehouse-Power-BI-Analytics)**  
+  PostgreSQL and Power BI analytics pipeline.
